@@ -1,0 +1,7 @@
+name: entropy
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pytest
+  - pytest-cov
