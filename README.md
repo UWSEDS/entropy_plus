@@ -1,3 +1,5 @@
+![](https://github.com/UWSEDS/entropy_plus/actions/workflows/testsuite.yaml/badge.svg?branch=main)
+
 # entropy_plus
 An example for continuous integration
 
